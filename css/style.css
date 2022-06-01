@@ -6,7 +6,7 @@ body {
 
 h1 {
 font-family: 'Sacramento', cursive;
-  font-size: 300%;
+  font-size: 250%;
   color: #4D4C7D;
   margin: auto;
 }
@@ -59,7 +59,7 @@ hr {
   margin-top: 20px;
   margin-bottom: 20px;
   left: 200px;
-  width: 300px;
+  width: 200px;
   height: 150px;
   top: 10px;
 }
@@ -73,10 +73,10 @@ hr {
 .cloud2 {
 
   position: absolute;
-  width: 200px;
+  width: 150px;
   height: 100px;
   top: 10%;
-  left: 10%;
+  left: 5%;
 }
 
 .pargraph {
@@ -86,8 +86,8 @@ hr {
 
 .mountain {
 
-  width: 750px;
-  height: 550px;
+  width: 700px;
+  height: 500px;
 }
 
 .list {
@@ -149,8 +149,8 @@ tr {
   height: 250px;
 }
 .abcd {
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
 }
 
 .program {
