@@ -1,12 +1,22 @@
 body {
   text-align: center;
   font-family: 'Hepta Slab', serif;
-  font-size: 250%;
+  font-size: 1.5rem;
 }
 
+#bio {
+  font-size: .8rem;
+}
+#one {
+  font-size: 1rem;
+}
+#eng {
+  font-size: 1rem;
+  text-decoration-line: underline;
+}
 h1 {
 font-family: 'Sacramento', cursive;
-  font-size: 250%;
+  font-size: 5rem;
   color: #4D4C7D;
   margin: auto;
 }
@@ -14,18 +24,15 @@ font-family: 'Sacramento', cursive;
 h2 {
   color: red;
   font-family: 'Dancing Script', cursive;
-  font-size: 250%;
+  font-size: 4.1rem;
   margin: auto;
 
 }
 
-h3 {
-  font-family: 'Courgette', cursive;
-  font-size: 300%;
-}
 
 h4 {
-  font-size: 60%;
+  font-size: 1rem;
+
 }
 
 hr {
@@ -38,9 +45,7 @@ hr {
     margin-right-style:0;
 }
 
-#one {
-  font-size: 100%;
-}
+
 #new {
   font-size: 300%
 }
@@ -79,15 +84,13 @@ hr {
   left: 5%;
 }
 
-.pargraph {
-
-  font-size: 60%;
-}
 
 .mountain {
 
   width: 700px;
   height: 500px;
+  border-bottom: 2px solid;
+  padding-bottom: 0;
 }
 
 .list {
@@ -101,7 +104,7 @@ hr {
 .link {
 
   color: black;
-  font-size: 60%;
+  font-size: 1rem;;
 
 }
 .link:visited {
@@ -142,7 +145,10 @@ th {
     font-size: 150%;
 }
 tr {
-    font-size: 60%;
+    font-size: 75%;
+}
+.pargraph {
+  font-size: 1.2rem;
 }
 .photo {
   width: 250px;
@@ -169,7 +175,7 @@ tr {
 
 }
 span {
-  font-size: 60%;
+  font-size: 1rem;
 }
 
 .tab {
